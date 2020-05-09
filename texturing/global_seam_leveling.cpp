@@ -19,6 +19,8 @@
 #include "seam_leveling.h"
 #include "progress_counter.h"
 
+using namespace std;
+
 TEX_NAMESPACE_BEGIN
 
 typedef Eigen::SparseMatrix<float> SpMat;
